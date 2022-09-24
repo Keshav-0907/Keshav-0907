@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Malik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt ="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/lone_wolf110" target="blank"><img src="https://img.shields.io/twitter/follow/lone_wolf110?logo=twitter&style=for-the-badge" alt="lone_wolf110" /></a> </p>
 
