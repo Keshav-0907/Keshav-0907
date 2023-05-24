@@ -19,7 +19,7 @@ Hi, I'm [Keshav Malik](https://github.com/Keshav-0907), a second year student at
 - 🌱 I’m currently learning DSA and strengthening my problem solving skils
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Keshav](https://linkedin.com/in/keshavmalik)
-- 📝[@Resume](https://docs.google.com/document/d/1_vaenRnFKtkdWbxN9hi6RpYHFlXTd8ex/edit?usp=share_link&ouid=105888237357814725002&rtpof=true&sd=true)
+
 
 **Languages and Tools:**  
 
