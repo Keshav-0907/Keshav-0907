@@ -16,10 +16,7 @@
 name: Keshav Malik
 located_in: India
 from: India
-education: ["Computer Science Engineering"]
-ask_me_about: ["MERN Stack"]
-currently_learning: ["Solidity","PWAs"]
-hobbies: ["Volleyball", "Gaming", "Scrolling Maps"]
+education: ["Computer Science"]
 ```
 
 ### Languages and Tools:
